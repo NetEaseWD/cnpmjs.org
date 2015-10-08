@@ -1,4 +1,6 @@
 /**!
+ * cnpmjs.org - config/index.js
+ *
  * Copyright(c) cnpmjs.org and other contributors.
  * MIT Licensed
  *
@@ -39,7 +41,7 @@ var config = {
 
   registryPort: 7001,
   webPort: 7002,
-  bindingHost: '127.0.0.1', // only binding on 127.0.0.1 for local access
+  // bindingHost: '127.0.0.1', // only binding on 127.0.0.1 for local access
 
   // debug mode
   // if in debug mode, some middleware like limit wont load
