@@ -13,7 +13,7 @@ module.exports = {
   mysqlDatabase: 'cnpm',
   enablePrivate: true, // enable private mode
   admins: {
-    june01: 'june_01@163.com',
+    admin: 'admin@163.com',
   },
   syncModel: 'exist',// 'none', 'all', 'exist'
   sourceNpmRegistry: 'http://registry.npmjs.org',
